@@ -1,0 +1,10 @@
+Library   management   system   has   2   modules   that   are   Students   portal   and   librarian/administration portal. 
+First, student portal has access to only the members of the class.Students portal permits students to look material by title/author,subject,publication,
+Lastly,the librarian portal facilitates administrator to register/reassign shelf and class,amend book standing,issue books and view book list.
+In the student portal ,students can get suggestions and reviews about books based on the database information. 
+There will be a login session so both students and administrators can login with their credentials.
+The administrators can add or delete by using book unique id .So there are various functions being implemented  using linked lists ,queues,stacks which have their own job and all those functions are made to perform in logical order to manage the library system.
+Library   management   system   has   2   modules   that   are   Students   portal   and   librarian/administration portal. First, student portal has access to only the members of the class.Students portal permits students to look material by title/author,subject,publication,
+Lastly,the librarian portal facilitates administrator to register/reassign shelf and class,amend book standing,issue books and view book list.
+In the student portal ,students can get suggestions and reviews about books based on the database information. 
+There will be a login session so both students and administrators can login with their credentials.Overall this technique is being enveloped to help the students as well as staff of the library to maintain the library in the best way possible and reduce the human efforts and can be terribly useful, and it will build things easier. 
